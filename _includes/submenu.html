@@ -1,0 +1,22 @@
+<!-- section -->
+<div class="section tabbar_menu">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="tab_menu">
+          <ul>
+            {% for menu in site.submenu %}
+              <li>
+                <a href="{{menu.link}}">
+                  <span class="icon"><img src="{{menu.icon}}" alt="#" /></span>
+                  <span>{{menu.title}}</span>
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->

@@ -1,0 +1,34 @@
+<!-- Start Banner -->
+<div class="ulockd-home-slider">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="pogoSlider" id="js-main-slider">
+        {%- for slider in site.sliders -%}
+        <div
+          class="pogoSlider-slide"
+          style="background-image: url({{slider.image}})"
+        >
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="slide_text">
+                  <h3>{{slider.title}}</h3>
+                  <h4>{{slider.text}}</h4>
+                  <br />
+                  <div class="full center">
+                    <a class="contact_bt" href="{{slider.link}}"
+                      >{{slider.linktext}}</a
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {%- endfor -%}
+      </div>
+      <!-- .pogoSlider -->
+    </div>
+  </div>
+</div>
+<!-- End Banner -->
