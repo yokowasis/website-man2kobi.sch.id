@@ -1829,6 +1829,7 @@ p {
 	padding-bottom: 30px;
 }
 
+#defaultlayout h1,
 .heading_main h2 {
     font-size: 40px;
     font-weight: 700;
@@ -1839,6 +1840,37 @@ p {
     background-image: url(../images/heading_main_border.png);
     background-position: left bottom;
     background-repeat: no-repeat;
+}
+
+
+#defaultlayout table {
+	border-collapse: collapse;
+}
+
+#defaultlayout table td {
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+#defaultlayout table th {
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+#defaultlayout h2 {
+	margin-top: 30px;
+	font-weight: bold;
+}
+
+#defaultlayout {
+	margin-bottom: 50px;
+}
+
+#defaultlayout h1 {
+	text-align: center;
+	background-image: url(../images/heading_main_border.png);
+	background-position: bottom center;
+	background-repeat: no-repeat;
 }
 
 .heading_main h2 span {
