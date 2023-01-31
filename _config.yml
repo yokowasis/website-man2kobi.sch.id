@@ -1,7 +1,7 @@
 title: MAN 2 Kota Bima
 author:
-  name: yokowasis
-  email: yokowasis@gmail.com
+  name: man2kotabima2
+  email: man2kotabima2@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -13,7 +13,7 @@ description: >
 
 sambutan: >
   Selamat datang di website MAN 2 Kota Bima, sekolah yang memiliki visi untuk mencetak 
-  siswa-siswi yang berprestasi dan memiliki jiwa kewirausahaan. 
+  siswa-siswi yang berprestasi, berakhlakul karimah, peduli lingkungan, berwawasan global yang dilandasi iman dan taqwa.
   Kami sangat berkomitmen untuk memberikan pendidikan terbaik bagi para siswa kami dengan 
   fasilitas yang memadai dan tenaga pendidik yang berpengalaman. Kami percaya bahwa setiap 
   siswa memiliki potensi yang luar biasa dan kami akan terus bekerja keras untuk membantu mereka 
@@ -24,9 +24,9 @@ logo: /images/logo.png
 logofooter: /images/footer_logo.png
 icon: /images/kemenag.png
 
-alamat: Kec Asakota, Kota Bima, NTB
-email: yokowasis@gmail.com
-phone: "+6282340039781"
+alamat: Jl. Wolter Monginsidi No. 02, Kel. Sarae, Kec. Rasanae Barat, Kota Bima, NTB
+email: man2kotabima2@gmail.com
+phone: "(0374) 42374"
 
 menus:
   - title: Home
@@ -44,16 +44,16 @@ menus:
 
 submenu:
   - title: Facebook
-    link: "#"
+    link: "mandua kobi"
     icon: /images/sosmed/fb.png
   - title: Instagram
-    link: "#"
+    link: "@mandua.kobi"
     icon: /images/sosmed/ig.png
   - title: Twitter
-    link: "#"
+    link: "-"
     icon: /images/sosmed/twitter.png
   - title: Whatsapp
-    link: "#"
+    link: "+6282339864138"
     icon: /images/sosmed/wa.png
   - title: Alumni
     link: "#"
