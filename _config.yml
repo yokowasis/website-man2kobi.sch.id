@@ -44,13 +44,13 @@ menus:
 
 submenu:
   - title: Facebook
-    link: "mandua kobi"
+    link: "https://www.facebook.com/profile.php?id=100087967555893&mibextid=ZbWKwL"
     icon: /images/sosmed/fb.png
   - title: Instagram
-    link: "@mandua.kobi"
+    link: "https://instagram.com/mandua.kotabima?igshid=Yzg5MTU1MDY="
     icon: /images/sosmed/ig.png
-  - title: Twitter
-    link: "-"
+  - title: Youtube
+    link: "https://youtube.com/@man2kotabima"
     icon: /images/sosmed/twitter.png
   - title: Whatsapp
     link: "+6282339864138"
