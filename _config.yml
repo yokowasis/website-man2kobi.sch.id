@@ -35,6 +35,8 @@ menus:
     link: /category/berita
   - title: Jadwal
     link: /pages/jadwal
+  - title: Profil
+    link: /pages/profil
   - title: PPDB
     link: /pages/ppdb
   - title: Aplikasi
