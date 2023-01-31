@@ -1843,6 +1843,10 @@ p {
 }
 
 
+#defaultlayout strong {
+	font-weight: bold;
+}
+
 #defaultlayout table {
 	border-collapse: collapse;
 }
