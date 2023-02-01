@@ -42,18 +42,27 @@
           <div class="carousel-inner">
             <div class="carousel-item active">
               <div class="row">
-                {% for post in site.posts limit:4 %}
+                {% assign i = 0 %}
+                {% for post in site.posts limit:12 %}
+                  {% assign i = i | plus: 1 %}
                   <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="full blog_img_popular">
                       <img class="img-responsive" src="{{ post.img }}" alt="#" />
-                      <p><a href="{{ post.url | relative_url }}">{{ post.title }}</a></p>
+                      <p><a href="{{ post.url | relative_url }}">{{ post.title }}-{{i | modulo:1}}</a></p>
                     </div>
                   </div>
+                  <!-- if i mod 4 = 0 -->
+                  {% assign temp = i | modulo:4 %}
+                  {% if  temp == 0 %}
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <div class="row">
+                  {% endif %}
                 {% endfor %}
               </div>
             </div>
           </div>
-
           <!-- Left and right controls -->
           <a class="carousel-control-prev" href="#demo" data-slide="prev">
             <span class="carousel-control-prev-icon"></span>
