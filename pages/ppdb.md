@@ -4,9 +4,9 @@ layout: default
 
 # Informasi PPDB
 
-Silakan Menggunakan [LINK PPDB](https://aplikasi.man2kobi.sch.id/ppdb-signup/) untuk melakukan pendaftaran.
+Silakan Menggunakan *[https://aplikasi.man2kobi.sch.id/ppdb-signup/](https://aplikasi.man2kobi.sch.id/ppdb-signup/)* untuk melakukan pendaftaran
 
-Mengisi Biodata Login ke [LOGIN PPDB](https://aplikasi.man2kobi.sch.id/).
+Mengisi Biodata Login ke *[https://aplikasi.man2kobi.sch.id/](https://aplikasi.man2kobi.sch.id/)*
 
 **Contact Person / WA : 082340039781**
 
