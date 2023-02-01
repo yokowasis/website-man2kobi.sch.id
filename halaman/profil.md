@@ -9,9 +9,10 @@ Sejarah singkat di tulis di sini
 
 ## Bidang Studi
 Daftar Bidang Studi
-1. Bidang Studi 1
-2. Bidang Studi 2
-3. Bidang Studi 3
+1. IPA (Ilmu Pengetahuan Alam)
+2. IPS (Ilmu Pengetahuan SOsial)
+3. Bahasa       
+5.  Agama
 
 ## Extra Kurikuluer
 - Extra 1
