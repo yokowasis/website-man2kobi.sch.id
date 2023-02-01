@@ -40,7 +40,7 @@ menus:
   - title: PPDB
     link: /pages/ppdb
   - title: Aplikasi
-    link: /pages/aplikasi
+    link: https://aplikasi.man2kobi.sch.id/
 
 submenu:
   - title: Facebook
