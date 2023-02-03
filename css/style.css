@@ -2281,3 +2281,32 @@ section.inner_banner h3 {
 	background: #fff;
 	color: #12385b;
 }
+
+/* create dropdown on hover */
+ul.navbar-nav ul {
+	display: none;
+	position: absolute;
+	background-color: #fff;
+}
+
+ul.navbar-nav li {
+	position: relative;
+}
+
+ul.navbar-nav li:hover > ul {
+	display: block;
+}
+
+ul.navbar-nav li:hover > ul li {
+	display: block;
+}
+
+/* media query phone and tablet */
+@media (max-width: 991px) {
+	ul.navbar-nav ul {
+		display: block;
+    position: static;
+    background: none;
+    margin-left: 20px;	
+	}	
+}

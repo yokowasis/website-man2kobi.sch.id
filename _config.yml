@@ -34,7 +34,12 @@ menus:
   - title: Berita
     link: /category/berita
   - title: Jadwal
-    link: /pages/jadwal
+    link: "#jadwal"
+    submenus: 
+      - title: Siswa
+        link: /pages/jadwal-siswa
+      - title: Guru
+        link: /pages/jadwal-guru
   - title: Profil
     link: /pages/profil
   - title: PPDB

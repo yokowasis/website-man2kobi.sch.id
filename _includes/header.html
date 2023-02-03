@@ -31,7 +31,17 @@
         <ul class="navbar-nav">
           {% for menu in site.menus %}
           <li>
-            <a class="nav-link" href="{{ menu.link }}">{{ menu.title }}</a>
+            <a class="nav-link" href="{{ menu.link }}">{{ menu.title }}
+              {% if menu.submenus %}
+                <i class="fa fa-angle-down"></i></a>
+                <ul>
+                  {% for submenu in menu.submenus %}
+                    <li><a href="{{ submenu.link }}">{{ submenu.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% else %}
+                </a>
+              {% endif %}            
           </li>
           {% endfor %}
         </ul>
