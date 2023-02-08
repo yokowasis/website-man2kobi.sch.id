@@ -2283,6 +2283,9 @@ section.inner_banner h3 {
 }
 
 /* create dropdown on hover */
+ul.navbar-nav ul.show {
+	display: block;
+}
 ul.navbar-nav ul {
 	display: none;
 	position: absolute;
@@ -2303,10 +2306,9 @@ ul.navbar-nav li:hover > ul li {
 
 /* media query phone and tablet */
 @media (max-width: 991px) {
-	ul.navbar-nav ul {
-		display: block;
-    position: static;
-    background: none;
-    margin-left: 20px;	
-	}	
+		ul.navbar-nav ul {
+			position: static;
+			background: none;
+			margin-left: 20px;	
+		}
 }

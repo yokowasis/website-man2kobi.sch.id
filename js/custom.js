@@ -18,8 +18,13 @@
 	$('.navbar-nav .nav-link').on('click', function() {
 		var toggle = $('.navbar-toggler').is(':visible');
 		if (toggle) {
-			$('.navbar-collapse').collapse('hide');
+			// $('.navbar-collapse').collapse('hide');
+			// alert ("123");
 		}
+	});
+
+	$(".nav-link").on("click", function() {
+		$(this).closest("li").find("ul").addClass("show");
 	});
 	
 	/* ..............................................
