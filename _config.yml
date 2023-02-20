@@ -34,12 +34,7 @@ menus:
   - title: Berita
     link: /category/berita
   - title: BOARDING SCHOOL
-    link: "#jadwal"
-    submenus: 
-      - title: Siswa
-        link: /pages/jadwal-siswa
-      - title: Guru
-        link: /pages/jadwal-guru
+    link: /pages/boardingschool
   - title: Profil
     link: /pages/profil
   - title: PPDB
