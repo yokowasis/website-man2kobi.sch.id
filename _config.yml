@@ -31,14 +31,14 @@ phone: "(0374) 42374"
 menus:
   - title: Home
     link: /
+  - title: PPDB
+    link: /pages/ppdb
   - title: Berita
     link: /category/berita
   - title: BOARDING SCHOOL
     link: /pages/boardingschool
   - title: Profil
     link: /pages/profil
-  - title: PPDB
-    link: /pages/ppdb
   - title: Aplikasi
     link: https://aplikasi.man2kobi.sch.id/
 
