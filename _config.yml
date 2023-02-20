@@ -33,7 +33,7 @@ menus:
     link: /
   - title: Berita
     link: /category/berita
-  - title: Jadwal
+  - title: BOARDING SCHOOL
     link: "#jadwal"
     submenus: 
       - title: Siswa
