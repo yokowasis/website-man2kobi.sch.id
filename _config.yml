@@ -67,7 +67,7 @@ submenu:
     link: "#"
     icon: /images/calendar.png
   - title: PPDB
-    link: "#"
+    link: "https://aplikasi.man2kobi.sch.id/ppdb-signup/"
     icon: /images/admission.png
 
 sliders:
