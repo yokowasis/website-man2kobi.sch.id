@@ -48,6 +48,9 @@ menus:
     link: https://aplikasi.man2kobi.sch.id/
 
 submenu:
+  - title: PPDB
+    link: "https://aplikasi.man2kobi.sch.id/ppdb-signup/"
+    icon: /images/admission.png
   - title: Facebook
     link: "https://www.facebook.com/profile.php?id=100087967555893&mibextid=ZbWKwL"
     icon: /images/sosmed/fb.png
@@ -66,9 +69,7 @@ submenu:
   - title: Akademik
     link: "#"
     icon: /images/calendar.png
-  - title: PPDB
-    link: "https://aplikasi.man2kobi.sch.id/ppdb-signup/"
-    icon: /images/admission.png
+
 
 sliders:
   - title: MAN 2 Kota Bima
