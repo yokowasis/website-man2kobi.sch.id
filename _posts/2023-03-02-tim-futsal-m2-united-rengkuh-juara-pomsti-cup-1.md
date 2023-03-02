@@ -7,7 +7,7 @@ img: images/WhatsApp%20Image%202023-03-02%20at%2021.00.46.jpeg
 author: Rozali Jauhari ALfanani, M.Pd.
 editor: Tim Humas MAN 2 KOTA BIMA.
 ---
-
+images/WhatsApp%20Image%202023-03-02%20at%2021.00.46.jpeg
 Tim Futsal MAN 2 Kota Bima, M2 United FC Rengkuh Juara POMSTI Cup I
 Tim Futsal MAN 2 Kota Bima, M2 United FC kembali menorehkan prestasi di kancah perfutsalan pelajar. Kali ini, gelar jawara turnamen POMSTI Cup I yang diselenggarakan oleh Mahasiswa STIE Bima menjadi milik tim asuhan coach Putrawansyah dan coach Taufik Kurahman. Gelar perdana pada tahun 2023 ini diraih setelah pada babak final mengalahkan salah satu tim favorit juara, SMA Negeri 1 Woha, Kabupaten Bima.
 Turnamen POMSTI Cup I sendiri digelar sejak 27 Februari hingga 1 Maret 2023 di GOR Panda, Kabupaten Bima. Peserta turnamen ini yaitu pelajar SMA/MA/SMK se-Pulau Sumbawa. Ajang ini tentu menjadi makin bergengsi karena memperebutkan hadiah jutaan rupiah bagi penghargaan individu maupun tim yang juara.
@@ -19,4 +19,4 @@ Ia juga berterima kasih kepada semua pihak, terutama pihak madrasah yang selalu 
 Adapun raihan juara pada POMSTI Cup I ini mendapat apresiasi berbagai pihak. Mulai dari rekan sesama pelatih, dewan guru hingga kepala MAN 2 Kota Bima menyampaikan ucapan selamat. Hadiah berupa piala dan uang pembinaan sejumlah Rp 4 juta makin lengkap dengan adanya apresiasi luar biasa dari berbagai pihak tersebut.
 “Alhamdulillah. Tim futsal madrasah kami memang tidak pernah mengecewakan supporternya. Juara demi juara selalu mampu dipersembahkan dan menjadi kebanggaan bersama. Selamat! Atas nama madrasah, saya sampaikan terima kasih tiada terhingga kepada pembina, pelatih dan pemain M2 United. Teruslah berproses dan raih prestasi pada level yang lebih tinggi lagi,” pesan Muslihah, S.Pd, Kepala MAN 2 Kota Bima.
 Tim futsal yang bermotto “Never Give Up” ini pun makin percaya diri untuk menatap dan menghadapi turnamen-turnamen berikutnya. Skuad yang ada saat ini akan terus dimatangkan melalui program yang telah disusun oleh pembina dan pelatih yang berlisensi futsal nasional, Gezo dan Pato. Didukung pula oleh pelatih kiper yang juga penuh pengalaman membela M2 United FC, Opick. Support para senior yang saat ini telah menjadi andalan bagi klub dan daerahnya pada bidang futsal maupun sepakbola pun menjadi amunisi tambahan bagi generasi baru M2 United FC untuk merengkuh lebih banyak tropi pada tahun ini.
-![WhatsApp Image 2023-03-02 at 21 00 46](https://user-images.githubusercontent.com/124013543/222448214-d17345d8-d102-4acd-8c03-24a843195edb.jpeg)
+
