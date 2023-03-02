@@ -3,11 +3,11 @@ layout: post
 title: "Tim Futsal MAN 2 Kota Bima, M2 United FC Rengkuh Juara POMSTI Cup I"
 date: 2023-03-02
 categories: Berita
-img: (https://user-images.githubusercontent.com/124013543/222450036-40e16844-b3bc-4d4c-bae7-6674a032408e.jpeg) 
+img: (https://user-images.githubusercontent.com/124013543/222452783-8483fe1d-9c6a-410f-a1db-3eb94192d55b.jpeg)
 author: Rozali Jauhari ALfanani, M.Pd.
 editor: Tim Humas MAN 2 KOTA BIMA.
 ---
-![WhatsApp Image 2023-03-02 at 21 00 46](https://user-images.githubusercontent.com/124013543/222450036-40e16844-b3bc-4d4c-bae7-6674a032408e.jpeg)
+![WhatsApp Image 2023-03-02 at 11 34 47](https://user-images.githubusercontent.com/124013543/222452783-8483fe1d-9c6a-410f-a1db-3eb94192d55b.jpeg)
 Tim Futsal MAN 2 Kota Bima, M2 United FC Rengkuh Juara POMSTI Cup I
 Tim Futsal MAN 2 Kota Bima, M2 United FC kembali menorehkan prestasi di kancah perfutsalan pelajar. Kali ini, gelar jawara turnamen POMSTI Cup I yang diselenggarakan oleh Mahasiswa STIE Bima menjadi milik tim asuhan coach Putrawansyah dan coach Taufik Kurahman. Gelar perdana pada tahun 2023 ini diraih setelah pada babak final mengalahkan salah satu tim favorit juara, SMA Negeri 1 Woha, Kabupaten Bima.
 Turnamen POMSTI Cup I sendiri digelar sejak 27 Februari hingga 1 Maret 2023 di GOR Panda, Kabupaten Bima. Peserta turnamen ini yaitu pelajar SMA/MA/SMK se-Pulau Sumbawa. Ajang ini tentu menjadi makin bergengsi karena memperebutkan hadiah jutaan rupiah bagi penghargaan individu maupun tim yang juara.
