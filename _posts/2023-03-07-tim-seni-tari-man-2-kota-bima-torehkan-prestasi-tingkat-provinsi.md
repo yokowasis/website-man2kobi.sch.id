@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lagi, Tim Seni Tari MAN 2 Kota Bima Torehkan Prestasi Tingkat Provinsi"
-date: 2023-03-07
+date: 2023-03-06
 categories: Berita
 img: /images/WhatsApp%20Image%202023-03-07%20at%2005.45.32.jpeg
 author: Humas MAN 2 Kota Bima.
