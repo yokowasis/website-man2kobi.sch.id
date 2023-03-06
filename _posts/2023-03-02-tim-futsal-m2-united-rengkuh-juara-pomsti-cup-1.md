@@ -3,7 +3,7 @@ layout: post
 title: "Tim Futsal MAN 2 Kota Bima, M2 United FC Rengkuh Juara POMSTI Cup I"
 date: 2023-03-02
 categories: Berita
-img: images.githubusercontent.com/124013543/222452783-8483fe1d-9c6a-410f-a1db-3eb94192d55b.jpeg)
+img: images.githubusercontent.com/124013543/222452783-8483fe1d-9c6a-410f-a1db-3eb94192d55b.jpeg
 author: Rozali Jauhari ALfanani, M.Pd.
 editor: Tim Humas MAN 2 KOTA BIMA.
 ---
