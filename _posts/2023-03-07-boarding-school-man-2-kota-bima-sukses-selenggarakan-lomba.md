@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sukses Maksimal! Boarding School MAN 2 Kota Bima Tuntas Selenggarakan Lomba"
-date: 2023-03-07
+date: 2023-03-06
 categories: Berita
 img: /images/BS%20FINISH.jpg
 author: Tim Humas MAN 2 Kota Bima.
