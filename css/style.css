@@ -2304,6 +2304,18 @@ ul.navbar-nav li:hover > ul li {
 	display: block;
 }
 
+.post-content {
+	text-align: justify;
+}
+
+.post-content img {
+	max-width: 100%;
+	padding:10px;
+	margin-bottom: 20px;
+	margin-top:20px;
+	border : solid 1px #828282;
+}
+
 /* media query phone and tablet */
 @media (max-width: 991px) {
 		ul.navbar-nav ul {
