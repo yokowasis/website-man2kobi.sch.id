@@ -8,7 +8,7 @@ author: Rozali Jauhari ALfanani, M.Pd.
 editor: Tim Humas MAN 2 KOTA BIMA.
 ---
 
-![WhatsApp Image 2023-03-02 at 11 34 47](https://user-images.githubusercontent.com/124013543/222452783-8483fe1d-9c6a-410f-a1db-3eb94192d55b.jpeg)
+
 Tim Futsal MAN 2 Kota Bima, M2 United FC Rengkuh Juara POMSTI Cup I
 
 Tim Futsal MAN 2 Kota Bima, M2 United FC kembali menorehkan prestasi di kancah perfutsalan pelajar. Kali ini, gelar jawara turnamen POMSTI Cup I yang diselenggarakan oleh Mahasiswa STIE Bima menjadi milik tim asuhan coach Putrawansyah dan coach Taufik Kurahman. Gelar perdana pada tahun 2023 ini diraih setelah pada babak final mengalahkan salah satu tim favorit juara, SMA Negeri 1 Woha, Kabupaten Bima.
