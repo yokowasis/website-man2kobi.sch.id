@@ -8,7 +8,7 @@ author: Tim Humas MAN 2 Kota Bima.
 editor: Tim Humas MAN 2 Kota Bima.
 ---
 
-![BS FINISH](https://user-images.githubusercontent.com/124013543/223243279-6f80e755-368a-4df1-b82e-5ad350e96924.jpg)
+
 Penyelenggaraan lomba dalam rangka milad Boarding School MAN 2 Kota Bima tuntas dilaksanakan. Aneka lomba yang dipusatkan di MAN 2 Kota Bima tersebut dilaksanakan selama tiga hari sejak tanggal 25 hingga 27 Februari 2023. Jumlah peserta yang mendaftar pun mencapai 523 orang yang tersebar dari berbagai sekolah dan madrasah jenjang SMP sederajat dan SMA sederajat se-Pulau Sumbawa.
 Bidang yang diperlombakan yaitu Pidato Bahasa Arab dan Bahasa Inggris (SMA dan SMP sederajat), Cerdas Cermat Bahasa Arab dan Bahasa Inggris (SMA dan SMP sederajat), Debat Bahasa Inggris (SMA sederajat), Hikayat Bahasa Arab (SMP sederajat), English Story Telling (SMP sederajat), dan Desain plus Presentasi Infografik (SMA sederajat). Masing-masing mata lomba tersebut pun menyediakan berbagai fasilitas hadiah bagi para pemenang berupa piala, sertifikat dan uang pembinaan.
 Adapun setelah melalui tahap perlombaan dan penilaian, para pemenang dari berbagai mata lomba pada tiap jenjang pun ditentukan. Penentuan pemenang sepenuhnya menjadi hak prerogatif dewan juri yang terdiri dari para akademisi dan pakar di bidangnya. Dengan demikian, para pemenang yang telah ditentukan tersebut merupakan hasil pilihan terbaik terhadap para peserta lomba yang tampil.
