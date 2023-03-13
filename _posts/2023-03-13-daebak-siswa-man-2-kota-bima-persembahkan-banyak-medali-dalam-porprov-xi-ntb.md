@@ -3,7 +3,7 @@ layout: post
 title: "Daebak! Siswa MAN 2 Kota Bima Persembahkan Banyak Medali dalam PORPROV XI NTB 2023"
 date: 2023-03-13
 categories: Berita
-img: /images/WhatsApp%20Image%202023-03-14%20at%2006.26.02.jpeg
+img: /images/WhatsApp%20Image%202023-03-14%20at%2006.49.04.jpeg
 author: Tim Humas MAN 2 Kota Bima.
 editor: Tim Humas MAN 2 Kota Bima.
 ---
