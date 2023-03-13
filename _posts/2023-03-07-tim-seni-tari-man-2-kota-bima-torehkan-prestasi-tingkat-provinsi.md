@@ -8,7 +8,7 @@ author: Humas MAN 2 Kota Bima.
 editor: Humas MAN 2 Kota Bima.
 ---
 
-![WhatsApp Image 2023-03-07 at 05 45 32](https://user-images.githubusercontent.com/124013543/223244401-8b60d1dc-4311-46bb-a2d9-92108ad24536.jpeg)
+
 Gelaran Festival Tari Kreasi Tradisional antarpelajar SMA/SMK/MA se-Provinsi Nusa Tenggara Barat (NTB) resmi ditutup. Ajang pertunjukan seni tari bertema “Melukis Gerakan dalam Ragam Tarian Melalui Estetika Budaya” tersebut digelar oleh Unit Kegiatan Mahasiswa Gong 96 Sekolah Tinggi Ilmu Keguruan dan Ilmu Pendidikan (STKIP) Bima. Festival tersebut dilaksanakan sejak 25 Februari hinga 4 Maret 2023 di Auditorium Amy Jafar STKIP Bima.
 Adapun tujuan pelaksanaan lomba tari tersebut yaitu mengenalkan tradisi dalam kreasi jiwa muda, khususnya para pelajar jenjang SMA sederajat. Hadiah yang disediakan oleh panitia berupa piala, piagam dan plakat Uma Lengge (rumah tradisional khas Bima). Berbagai sekolah pun terlibat dengan mengirimkan delegasi tim tarinya untuk menampilkan kearifan lokal dalam bentuk tari kreasi.
 Dalam hal ini, salah satu sekolah yang turut berpartisipasi pada festival tari kreasi tradisonal tersebut yaitu MAN 2 Kota Bima. Seperti yang diketahui, tim seni tari (Sentra M2) yang dibina langsung oleh salah satu guru di madrasah tersebut, Rillasari, S.Pd, merupakan tim seni tari yang sudah beberapa kali terlibat dalam berbagai event dan menorehkan prestasi. 
