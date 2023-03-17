@@ -3,7 +3,7 @@ layout: post
 title: "Hidayat, dari M2 United FC MAN 2 Kota Bima Menuju Bhayangkara FC, Surabaya"
 date: 2023-03-17
 categories: Berita
-img: /images/1679094273269.jpg
+img: /images/1679095051459.jpg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
