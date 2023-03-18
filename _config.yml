@@ -44,7 +44,7 @@ menus:
 
 submenu:
   - title: PPDB
-    link: "https://aplikasi.man2kobi.sch.id/ppdb-signup/"
+    link: "https://aplikasi.man2kobi.sch.id/kelulusan/"
     icon: /images/ppdb.jpeg
   - title: Facebook
     link: "https://www.facebook.com/profile.php?id=100087967555893&mibextid=ZbWKwL"
