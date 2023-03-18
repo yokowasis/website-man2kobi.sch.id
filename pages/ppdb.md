@@ -4,9 +4,9 @@ layout: default
 
 # Informasi PPDB
 
-Silakan Menggunakan **[https://aplikasi.man2kobi.sch.id/ppdb-signup/](https://aplikasi.man2kobi.sch.id/ppdb-signup/)** untuk melakukan pendaftaran.
+Silakan cek kelulusan di **\(https://aplikasi.man2kobi.sch.id/kelulusan/)]
 
-(Pendaftaran PPDB Jalur Prestasi dapat diakses mulai pada 6 Maret 2023)
+calon peserta didik yang dinyatakan lulus harus melakukan pendaftaran ulang pada tanggal 29 Maret - 6 April 2023 dengan membawa print-out bukti kelulusan (screenshot kemudian dicetak)
 
 **Contact Person / WA : 082339864138**
 
