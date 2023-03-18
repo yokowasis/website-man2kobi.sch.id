@@ -3,11 +3,11 @@ layout: post
 title: "Hidayat, dari M2 United FC MAN 2 Kota Bima Menuju Bhayangkara FC, Surabaya"
 date: 2023-03-17
 categories: Berita
-img: /images/1679095051459.jpg
+img: /images/InShot_20230318_120923860.jpg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
-![1679094273269](https://user-images.githubusercontent.com/124013543/226067911-fb54d538-9647-4589-a45b-9b82b65de6a6.jpg)
+![InShot_20230318_120923860](https://user-images.githubusercontent.com/124013543/226084495-5ac7aa4a-58ee-4dfd-8edb-8b5fa13641f0.jpg)
 Lagi, potensi talenta sepakbola dari MAN 2 Kota Bima mengharumkan nama daerah Bima. Hidayat, siswa kelas X-7 MAN 2 Kota Bima menjadi satu-satunya peserta yang berasal dari wilayah Bima yang lolos mewakili Provinsi NTB dalam seleksi Elit Pro Academy Bhayangkara FC.
 
 
