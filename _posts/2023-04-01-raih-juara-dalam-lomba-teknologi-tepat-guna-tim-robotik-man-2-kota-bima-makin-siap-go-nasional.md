@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Raih Juara dalam Lomba Teknologi Tepat Guna, Tim Robotik MAN 2 Kota Bima Makin Siap Go Nasional"
-date: 2023-03-31
+title: "Raih Juara dalam Lomba Teknologi Tepat Guna, Tim Robotik MAN 2 Kota Bima Makin Siap Go Nasional!"
+date: 2023-04-01
 categories: Berita
-img: images/WhatsApp%20Image%202023-04-02%20at%2020.29.43.jpeg
+img: /images/WhatsApp%20Image%202023-04-02%20at%2020.38.20%20(2).jpeg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
+---
+
 ![WhatsApp Image 2023-04-02 at 20 29 43](https://user-images.githubusercontent.com/124013543/229354092-c8056897-2747-4de4-bcae-76415887bdec.jpeg)
 MAN 2 Kota Bima kembali menambah pundi prestasi pada triwulan pertama tahun 2023. Kali ini, Tim Robotik Siswa MAN 2 Kota Bima yang mempersembahkan prestasi di tingkat Kota Bima. Hal ini diraih setelah mengikuti kegiatan Lomba Teknologi Tepat Guna (TTG) Tingkat Kota Bima yang diselenggarakan oleh Badan Riset dan Inovasi Daerah (BRIDA) Kota Bima.
 
