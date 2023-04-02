@@ -3,7 +3,7 @@ layout: post
 title: "Echa, Talenta MAN 2 Kota Bima Lolos Mewakili NTB dalam Jambore Nasional Generasi Hijau 2023 di Bandung"
 date: 2023-04-01
 categories: Berita
-img: images/WhatsApp%20Image%202023-04-02%20at%2020.38.20%20(2).jpeg
+img: /images/WhatsApp%20Image%202023-04-02%20at%2020.38.20%20(2).jpeg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
