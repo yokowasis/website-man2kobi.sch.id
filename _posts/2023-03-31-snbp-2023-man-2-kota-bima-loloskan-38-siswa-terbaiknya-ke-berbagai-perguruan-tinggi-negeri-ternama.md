@@ -3,9 +3,10 @@ layout: post
 title: "SNBP 2023, MAN 2 Kota Bima Loloskan 38 Siswa Terbaiknya ke Berbagai Perguruan Tinggi Ternama"
 date: 2023-03-31
 categories: Berita
-img: https://asset.kompas.com/crops/7NiOCG5IO9HArWHndVTRRNLa-Mo=/0x0:917x611/750x500/data/photo/2022/11/18/6377237c17e09.jpg
+img: images/WhatsApp%20Image%202023-04-02%20at%2020.38.20.jpeg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
+
 ![SNMPB MAN 2 KOTA BIMA 2023](https://user-images.githubusercontent.com/124013543/229354418-68208d9e-eae1-42f2-8a8c-46961d694c5a.jpg)
 Hasil Seleksi Nasional Berdasarkan Prestasi (SNBP) tahun 2023 telah diumumkan. Siswa kelas XII dari berbagai sekolah jenjang SMA sederajat pun dapat langsung mengetahui status kelulusannya. Termasuk para siswa MAN 2 Kota Bima yang mengikuti seleksi berdasarkan penelusuran prestasi akademik dengan menggunakan rapor (semester 1 – 5) serta portofolio akademik dan non akademik tersebut.
 
