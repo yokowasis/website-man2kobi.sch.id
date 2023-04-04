@@ -3,7 +3,7 @@ layout: post
 title: "Cetak Rekor Fenomenal, 121 Siswa MAN 2 Kota Bima Lolos SPAN-PTKIN 2023"
 date: 2023-04-03
 categories: Berita
-img: images/WhatsApp%20Image%202023-04-04%20at%2020.53.50.jpeg
+img: /images/WhatsApp%20Image%202023-04-04%20at%2020.53.50.jpeg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
