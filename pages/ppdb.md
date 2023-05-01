@@ -24,7 +24,7 @@ Tata cara
 
 PENYERAHAN BERKAS PERSYARATAN PPDB dilakukan bersamaan dengan TES LISAN: 15-16 MEI 2023
 
-**Contact Person / WA : 082339864138**
+**Contact Person / WA : 085239848555**
 
 PPDB MAN 2 Kota Bima
 {: style="text-align:center"}
