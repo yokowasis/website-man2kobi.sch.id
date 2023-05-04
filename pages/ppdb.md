@@ -9,8 +9,12 @@ Silakan melakukan pendaftaran PPDB MAN 2 Kota Bima Jalur Reguler secara online m
 **INFORMASI PENTING !!!**
 
 **PERUBAHAN JADWAL TES **
+
+
 TES LISAN DAN PENGUMPULAN BERKAS : **11-12 MEI 2023**
-**TES TULIS : 13 MEI 2023**
+
+
+TES TULIS : **13 MEI 2023**
 
 LANGKAH-LANGKAH  PENDAFTARAN
 
