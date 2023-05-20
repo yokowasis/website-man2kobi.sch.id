@@ -4,7 +4,7 @@ layout: default
 
 # Informasi PPDB
 
-CEK KELULUSAN PPDB MAN 2 KOTA BIMA JALUR PRESTASI DI **\["https://aplikasi.man2kobi.sch.id/kelulusan/"]/**
+CEK KELULUSAN PPDB MAN 2 KOTA BIMA JALUR PRESTASI DI **\["(https://aplikasi.man2kobi.sch.id/kelulusan/)"]/**
 
 BAGI SISWA YANG DINYATAKAN **LULUS** UNTUK SEGERA MELAKUKAN REGISTRASI ULANG **PADA TANGGAL 22 – 27 MEI 2023
 DENGAN MEMBAWA BUKTI KELULUSAN INI**
