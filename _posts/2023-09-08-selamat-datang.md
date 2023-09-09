@@ -7,7 +7,7 @@ img: https://i.postimg.cc/L8Pk3KdR/Screenshot-2023-09-07-16-12-32-430-com-androi
 author: Humas MAN 2 Kota Bima
 editor: Humas MAN 2 Kota Bima
 ---
-[Screenshot-2023-09-07-16-12-32-430-com-android-browser.png](https://postimg.cc/xX0b9ZTF)
+[![Screenshot-2023-09-07-16-12-32-430-com-android-browser.png](https://i.postimg.cc/L8Pk3KdR/Screenshot-2023-09-07-16-12-32-430-com-android-browser.png)](https://postimg.cc/xX0b9ZTF)
 
 06 September 2023 – Madrasah Aliyah Negeri [MAN] 2 Kota Bima mengikuti Lomba Madrasah Sehat [LMS] tingkat Provinsi Nusa Tenggara Barat sebagai perwakilan Madrasah Aliyah dari Kota Bima. Madrasah sehat diselenggarakan dengan tujuan untuk mengembangkan dan membina kebiasaan hidup sehat yang dilaksanakan secara terpadu melalui program pendidikan dan pelayanan kesehatan di madrasah agar tercapainya lingkungan yang sehat sehingga berdampak pada peningkatan prestasi belajar siswa. 
 
