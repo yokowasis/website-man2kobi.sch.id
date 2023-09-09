@@ -6,7 +6,7 @@ categories: Berita
 img: /images/WhatsApp%20Image%202023-03-14%20at%2006.49.04.jpeg
 author: Tim Humas MAN 2 Kota Bima.
 editor: Tim Humas MAN 2 Kota Bima.
-exceprt: "Siswa MAN 2 Kota Bima kembali mempersembahkan prestasi mentereng. Kali ini, beberapa medali berhasil dibawa pulang dari ajang Pekan Olahraga Provinsi (PORPROV) ke-XI Nusa Tenggara Barat (NTB)."
+excerpt: "Siswa MAN 2 Kota Bima kembali mempersembahkan prestasi mentereng. Kali ini, beberapa medali berhasil dibawa pulang dari ajang Pekan Olahraga Provinsi (PORPROV) ke-XI Nusa Tenggara Barat (NTB)."
 ---
 ![WhatsApp Image 2023-03-14 at 06 26 02](https://user-images.githubusercontent.com/124013543/224848030-7ca6e407-7345-4301-b0de-2fa5aef0dab2.jpeg)
 
