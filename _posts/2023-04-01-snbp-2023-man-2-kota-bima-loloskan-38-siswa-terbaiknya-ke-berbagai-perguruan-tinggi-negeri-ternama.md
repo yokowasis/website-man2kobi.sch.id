@@ -6,6 +6,7 @@ categories: Berita
 img: https://user-images.githubusercontent.com/124013543/229354418-68208d9e-eae1-42f2-8a8c-46961d694c5a.jpg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
+excerpt: "Hasil Seleksi Nasional Berdasarkan Prestasi (SNBP) tahun 2023 telah diumumkan. Siswa kelas XII dari berbagai sekolah jenjang SMA sederajat pun dapat langsung mengetahui status kelulusannya."
 ---
 
 ![SNMPB MAN 2 KOTA BIMA 2023](https://user-images.githubusercontent.com/124013543/229354418-68208d9e-eae1-42f2-8a8c-46961d694c5a.jpg)

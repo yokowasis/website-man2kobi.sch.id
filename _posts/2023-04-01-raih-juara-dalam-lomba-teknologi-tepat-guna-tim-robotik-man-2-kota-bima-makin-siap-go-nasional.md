@@ -6,6 +6,7 @@ categories: Berita
 img: /images/WhatsApp%20Image%202023-04-02%20at%2020.38.20%20(2).jpeg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
+excerpt: "MAN 2 Kota Bima kembali menambah pundi prestasi pada triwulan pertama tahun 2023. Kali ini, Tim Robotik Siswa MAN 2 Kota Bima yang mempersembahkan prestasi di tingkat Kota Bima."
 ---
 
 ![WhatsApp Image 2023-04-02 at 20 29 43](https://user-images.githubusercontent.com/124013543/229354092-c8056897-2747-4de4-bcae-76415887bdec.jpeg)

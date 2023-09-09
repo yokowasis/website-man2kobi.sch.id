@@ -6,6 +6,7 @@ categories: Berita
 img: /images/WhatsApp%20Image%202023-04-02%20at%2020.38.20%20(2).jpeg
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
+excerpt: "Green Generation Indonesia telah menuntaskan tahapan seleksi peserta Jambore Nasional Generasi Hijau (JNGH) 2023. Tepat pada Jumat (31/3) pihak panitia mengumumkan hasil seleksi melalui akun instagram milik Green Generation."
 ---
 ![WhatsApp Image 2023-04-02 at 20 30 07](https://user-images.githubusercontent.com/124013543/229354657-7bb0ee7a-791b-4d5e-8066-1b8a70af4b81.jpeg)
 Green Generation Indonesia telah menuntaskan tahapan seleksi peserta Jambore Nasional Generasi Hijau (JNGH) 2023. Tepat pada Jumat (31/3) pihak panitia mengumumkan hasil seleksi melalui akun instagram milik Green Generation. Sejumlah 210 peserta se-Indonesia yang merupakan pelajar jenjang SMA sederajat berhak lolos dan menjadi peserta kegiatan yang akan diadakan di Bandung, Jawa Barat pada 31 Juli hingga 4 Agustus 2023.
