@@ -45,3 +45,7 @@ echo -e "$content" >> "_posts/$filename"
 
 echo "Created _posts/$filename"
 
+git commit add .
+git commit -m post
+git push
+
