@@ -6,10 +6,6 @@ if [ $# -lt 2 ]; then
     exit 1
 fi
 
-git reset --hard HEAD
-git clean -f -d
-git pull
-
 # Read the title and content from command line parameters
 title="$1"
 content="$2"
