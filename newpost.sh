@@ -18,7 +18,8 @@ content="$2"
 img_url="${3:-https://bengkulu.kemenag.go.id/file/file/Gambar/logo2.jpg}"
 
 # Calculate yesterday's date in the format YYYY-MM-DD
-yesterday=$(date -u -v-1d +%Y-%m-%d)
+current_date=$(date +%Y-%m-%d)
+yesterday=$(date -d "$current_date - 1 day" +%Y-%m-%d)
 
 # Replace spaces in the title with hyphens and convert to lowercase
 title_slug=$(echo "$title" | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
