@@ -9,10 +9,6 @@ editor: Humas MAN 2 Kota Bima
 excerpt: "Madrasah Aliyah Negeri [MAN] 2 Kota Bima mengikuti Lomba Madrasah Sehat [LMS] tingkat Provinsi Nusa Tenggara Barat sebagai perwakilan Madrasah Aliyah dari Kota Bima."
 ---
 
-<div style="text-align:center">
-<img src="https://i.postimg.cc/c4Pk4RyJ/Screenshot-2023-09-07-16-12-32-430-com-android-browser-1.png" />
-</div>
-
 06 September 2023 – Madrasah Aliyah Negeri [MAN] 2 Kota Bima mengikuti Lomba Madrasah Sehat [LMS] tingkat Provinsi Nusa Tenggara Barat sebagai perwakilan Madrasah Aliyah dari Kota Bima. Madrasah sehat diselenggarakan dengan tujuan untuk mengembangkan dan membina kebiasaan hidup sehat yang dilaksanakan secara terpadu melalui program pendidikan dan pelayanan kesehatan di madrasah agar tercapainya lingkungan yang sehat sehingga berdampak pada peningkatan prestasi belajar siswa.
 
 Visitasi Lomba Madrasah Sehat di MAN 2 Kota Bima dilaksanakan pada Rabu [06/09/2023] oleh Tim Visitasi Lomba Madrasaga Sehat [LSM] Provinsi Nusa Tenggara Barat. Penyambutan Tim Visitasi Lomba Madrasah Sehat ini dilakukan dengan begitu meriah oleh pihak MAN 2 Kota Bima, diawali dengan pengalungan sarung khas daerah Bima oleh Kepala Madrasah [Muslihah, S.Pd] kepada tim penilai, kemudian dilanjutkan dengan iringan tim hadrah Madrasah dan disambut oleh tenaga pendidik dan kependidikan Madrasah, anggota PIK-R Genic, anggota Pramuka, anggota OSIM, anggota PASKIBRAKA, dan terakhir Tari Wura Bongi Monca oleh Tim Sanggar Seni Tari MAN 2 Kota Bima.
