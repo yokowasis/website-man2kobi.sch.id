@@ -6,6 +6,8 @@ categories: Berita
 img: https://i.postimg.cc/c4Pk4RyJ/Screenshot-2023-09-07-16-12-32-430-com-android-browser-1.png
 author: Humas MAN 2 Kota Bima
 editor: Humas MAN 2 Kota Bima
+excerpt: "Madrasah Aliyah Negeri [MAN] 2 Kota Bima mengikuti Lomba Madrasah Sehat [LMS] tingkat Provinsi Nusa Tenggara Barat sebagai perwakilan Madrasah Aliyah dari Kota Bima."
+---
 
 [![Screenshot-2023-09-07-16-12-32-430-com-android-browser-1.png](https://i.postimg.cc/c4Pk4RyJ/Screenshot-2023-09-07-16-12-32-430-com-android-browser-1.png)](https://postimg.cc/9rtYLqf3)
 
