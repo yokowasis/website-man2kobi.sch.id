@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "4 Dampak Positif Penggunaan Media Sosial di Kehidupan Sehari-hari"
-date: 2023-01-30
+title: "Selamat Datang Tim Penilai Lomba Madrasah Sehat Tingkat Provinsi NTB"
+date: 2023-09-07
 categories: Berita
-img: https://asset.kompas.com/crops/7NiOCG5IO9HArWHndVTRRNLa-Mo=/0x0:917x611/750x500/data/photo/2022/11/18/6377237c17e09.jpg
-author: Wasis H.S.
-editor: Wasis H.S.
+img: https://i.postimg.cc/c4Pk4RyJ/Screenshot-2023-09-07-16-12-32-430-com-android-browser-1.png
+author: Humas MAN 2 Kota Bima
+editor: Humas MAN 2 Kota Bima
 
 [![Screenshot-2023-09-07-16-12-32-430-com-android-browser-1.png](https://i.postimg.cc/c4Pk4RyJ/Screenshot-2023-09-07-16-12-32-430-com-android-browser-1.png)](https://postimg.cc/9rtYLqf3)
 
