@@ -10,7 +10,7 @@ excerpt: "Peringatan Maulid Nabi Muhammad SAW dilaksanakan di Masjid Babul Ilmi 
 ---
 30 September 2023 - Peringatan Maulid Nabi Muhammad SAW dilaksanakan di Masjid Babul Ilmi madrasah dan diikuti oleh seluruh civitas akademika MAN 2 Kota Bima dengan mengusung tema "Meneladani Akhlak Rasulullah Sebagai Bekal Pribadi yang Cerdas dan Berakhlakul Karimah di Era Modern."
 
-[![IMG-2595.jpg](https://i.postimg.cc/kghcLBgz/IMG-2595.jpg)](https://postimg.cc/tsWWxRPN)
+[![IMG-2697.jpg](https://i.postimg.cc/3wXZN9B5/IMG-2697.jpg)](https://postimg.cc/Y4SFy6Zb)
 Acara ini diawali dengan lantunan sholawat dari group marawis madrasah, penampilan pidato Bahasa Arab dan Inggris dari santri Boarding School, Persembahan lagu religi dari pengurus OSIM dan diikuti dengan pembacaan ayat suci Al-Qur'an oleh Nuraini.
 
 Sementara itu, Ibu Muslihah, S.Pd selaku Kepala Madrasah dalam sambutannya, beliau mengungkapkan rasa bahagianya atas terselenggaranya acara maulid di madrasah tradisi prestasi ini dan mengajak kepada seluruh jamaah terutama siswa MAN 2 Kota Bima untuk selalu menjadi pribadi yang lebih baik setiap harinya dan menjadikan Rasulullah SAW sebagai suri tauladan dalam kehidupan sehari-hari. Sambutannya diakhiri dengan sebuah pantun 
