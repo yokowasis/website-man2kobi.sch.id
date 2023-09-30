@@ -3,12 +3,12 @@ layout: post
 title: "Peringatan Maulid Nabi Muhammad SAW di MAN 2 KOTA BIMA"
 date: 2023-09-30
 categories: Berita
-img: "https://i.postimg.cc/dtj0nx9S/IMG-2719.jpg"
+img: "https://i.postimg.cc/Vk1598Qh/IMG-2636.jpg"
 author: Humas MAN 2 Kota Bima
 editor: Humas MAN 2 Kota Bima
 excerpt: "Peringatan Maulid Nabi Muhammad SAW dilaksanakan di Masjid Babul Ilmi madrasah dan diikuti oleh seluruh civitas akademika MAN 2 Kota Bima."
 ---
-[![IMG-2718.jpg](https://i.postimg.cc/wxydrmT8/IMG-2718.jpg)](https://postimg.cc/grW5XrZN)
+
 30 September 2023 - Peringatan Maulid Nabi Muhammad SAW dilaksanakan di Masjid Babul Ilmi madrasah dan diikuti oleh seluruh civitas akademika MAN 2 Kota Bima dengan mengusung tema "Meneladani Akhlak Rasulullah Sebagai Bekal Pribadi yang Cerdas dan Berakhlakul Karimah di Era Modern."
 
 [![IMG-2697.jpg](https://i.postimg.cc/3wXZN9B5/IMG-2697.jpg)](https://postimg.cc/Y4SFy6Zb)
