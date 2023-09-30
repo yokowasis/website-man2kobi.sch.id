@@ -3,17 +3,17 @@ layout: post
 title: "MAN 2 KOTA BIMA – Sabet JUARA 2 Pada Lomba Olimpiade Bahasa Arab [OBA] ke-6 Se-Provinsi NTB"
 date: 2023-09-23
 categories: Berita
-img: "https://i.postimg.cc/nzTMpZf4/Whats-App-Image-2023-09-23-at-19-15-08-1-1.jpg"
+img: "https://i0.wp.com/i.postimg.cc/nzTMpZf4/Whats-App-Image-2023-09-23-at-19-15-08-1-1.jpg"
 author: Humas MAN 2 Kota Bima
 editor: Humas MAN 2 Kota Bima
 excerpt: "23 September 2023 – siswi MAN 2 KOTA BIMA atas nama Dannisa Auralia S berhasil meraih juara 2 pada ajang Olimpiade Bahasa Arab [OBA] ke-6 tingkat provinsi Nusa Tenggara Barat yang bertempat di Aula MAN 2 Mataram."
 ---
-[![Whats-App-Image-2023-09-23-at-19-15-09.jpg](https://i.postimg.cc/C1jkDdnb/Whats-App-Image-2023-09-23-at-19-15-09.jpg)](https://postimg.cc/zbGyYzjf)
+[![Whats-App-Image-2023-09-23-at-19-15-09.jpg](https://i0.wp.com/i.postimg.cc/C1jkDdnb/Whats-App-Image-2023-09-23-at-19-15-09.jpg)](https://postimg.cc/zbGyYzjf)
 
 23 September 2023 – siswi MAN 2 KOTA BIMA atas nama Dannisa Auralia S berhasil meraih juara 2 pada ajang Olimpiade Bahasa Arab [OBA] ke-6 tingkat provinsi Nusa Tenggara Barat yang bertempat di Aula MAN 2 Mataram. OBA merupakan kompetisi online yang diselenggarakan oleh Forum MGMP Bahasa Arab nasional dan diikuti oleh seluruh madrasah se-Indonesia. 
 
 Di Tingkat Provinsi  MAN 2 KOTA BIMA mendelegasikan 2 siswi yang sebelumnya Juara 1 dan 2 Olimpiade Bahasa Arab pada Tingkat Kabupaten/Kota atas nama Dannisa Auralia S kelas XII dan Dinda Lestari kelas XI. Dua siswi ini merupakan santri Boarding School MAN 2 KOTA BIMA.
-[![Whats-App-Image-2023-09-23-at-19-15-08.jpg](https://i.postimg.cc/TwcQxyPt/Whats-App-Image-2023-09-23-at-19-15-08.jpg)](https://postimg.cc/njCqYhBm)
+[![Whats-App-Image-2023-09-23-at-19-15-08.jpg](https://i0.wp.com/i.postimg.cc/TwcQxyPt/Whats-App-Image-2023-09-23-at-19-15-08.jpg)](https://postimg.cc/njCqYhBm)
 
 OBA ke-6 tingkat provinsi dilaksanakan satu hari secara serentak nasional pada pukul 10.00 WIB [23/09/2023] dengan jumlah 134 peserta dari 8 kategori. Olimpiade ini dimulai dengan mengerjakan sebanyak 50 butir soal dalam waktu 60 menit dan hasil olimpiade langsung diumumkan hari itu juga pukul 16.00 WIB oleh panitia penyelenggara.
 

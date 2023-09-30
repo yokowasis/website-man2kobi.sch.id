@@ -3,12 +3,12 @@ layout: post
 title: "MAN 2 KOTA BIMA JUARA UMUM Lomba Gerak Jalan dalam rangka memperingati HARI PRAMUKA KE 62 Tahun 2023 yang diselenggarakan oleh KWARCAB KOTA BIMA"
 date: 2023-09-16
 categories: Berita
-img: "https://i.postimg.cc/T1R3gyPp/Whats-App-Image-2023-09-16-at-11-51-11-2.jpg"
+img: "https://i0.wp.com/i.postimg.cc/T1R3gyPp/Whats-App-Image-2023-09-16-at-11-51-11-2.jpg"
 author: Humas MAN 2 Kota Bima
 editor: Humas MAN 2 Kota Bima
 excerpt: "MAN 2 Kota Bima yang terkenal dengan Madrasah Tradisi Prestasi kembali mengukir prestasi."
 ---
-[![Whats-App-Image-2023-09-16-at-11-51-11-2.jpg](https://i.postimg.cc/T1R3gyPp/Whats-App-Image-2023-09-16-at-11-51-11-2.jpg)](https://postimg.cc/r0PTLwxk)
+[![Whats-App-Image-2023-09-16-at-11-51-11-2.jpg](https://i0.wp.com/i.postimg.cc/T1R3gyPp/Whats-App-Image-2023-09-16-at-11-51-11-2.jpg)](https://postimg.cc/r0PTLwxk)
 16 September 2023 – MAN 2 Kota Bima yang terkenal dengan Madrasah Tradisi Prestasi kembali mengukir prestasi. Kali ini diraih dalam lomba gerak jalan tingkat kota Bima dalam rangka memperingati hari pramuka ke-62 Tahun 2023 yang diselenggarakan oleh KWARCAB KOTA BIMA. Lomba gerak jalan berlangsung dari tanggal 04 – 08 Agustus 2023 diikuti oleh seluruh satuan pendidikan mulai dari tingkat SD/MI, SMP/MTs dan SMK/SMA/MA di Kota Bima.
 
 MAN 2 Kota Bima mendelegasikan 2 tim gerak jalan putra yang dibina langsung oleh Pak Arif Ruslin, S.Pd dan Pak Eka Hidayatullah, S.Pd, 1 tim gerak jalan putri yang dibina oleh Ibu Suwaidah, S.Ag dan 1 tim gerak jalan guru di bawah binaan Pak A. Haris, S.Pd.
