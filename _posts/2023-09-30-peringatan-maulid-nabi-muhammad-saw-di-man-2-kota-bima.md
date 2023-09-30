@@ -15,7 +15,7 @@ Acara ini diawali dengan lantunan sholawat dari group marawis madrasah, penampil
 
 Sementara itu, Ibu Muslihah, S.Pd selaku Kepala Madrasah dalam sambutannya, beliau mengungkapkan rasa bahagianya atas terselenggaranya acara maulid di madrasah tradisi prestasi ini dan mengajak kepada seluruh jamaah terutama siswa MAN 2 Kota Bima untuk selalu menjadi pribadi yang lebih baik setiap harinya dan menjadikan Rasulullah SAW sebagai suri tauladan dalam kehidupan sehari-hari. Sambutannya diakhiri dengan sebuah pantun 
 
-[![IMG-2705.jpg](https://i.postimg.cc/L6JhNXGn/IMG-2705.jpg)](https://postimg.cc/RNzM0MSB)
+[![IMG-2595.jpg](https://i.postimg.cc/kghcLBgz/IMG-2595.jpg)](https://postimg.cc/tsWWxRPN)
 Acara maulid ini dikemas dalam bentuk pembacaan Maulid ad-Diba'i dan tausiyah yang disampaikan oleh Ustadz Ophic Setiawan S.Pd. Dalam tausiyahnya Ustadz muda yang biasa disapa Ustadz Ophic memaparkan tentang sejarah dan hikmah dari Maulid Nabi Muhammad SAW serta menekankan bahwa Nabi tidak dilahirkan pada bulan mulia karena ditakutkan orang-orang beranggapan Nabi dikatakan mulia sebab lahir di bulan mulia, akan tetapi seharusnya ketika Nabi lahir,  maka bulan tersebut akan dianggap lebih mulia karena Nabi lahir di dalamnya.
 
 Peringatan maulid nabi yang dikemas dengan begitu meriah itupun ditutup dengan kuis dan do'a yang dipimpin oleh  Muhammad Ivan Al Farizi, siswa MAN 2 Kota Bima.
