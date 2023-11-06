@@ -3,10 +3,11 @@ layout: post
 title: "2Eazy MAN 2 KOTA BIMA Raih Juara 3 Lomba Akustik Tingkat SMA & Sederajat"
 date: 2023-11-05
 categories: Berita
-img: "https://man2kobi.sch.id/images/1699254897599_2408c478.png"
+img: "https://man2kobi.sch.id/images/1699256514880_34122e6b.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
+
 
 06 November 2023 – Group Band 2Eazy MAN 2 KOTA BIMA meraih juara 3 pada ajang lomba Akustik/Band Tingkat SMA & UMUM yang diselenggarakan oleh UMA GRILL & CAFE Tahun 2023. Pendaftaran lomba ini dimulai pada 09 Oktober – 02 November 2023 dan pelaksanakan lomba berlangsung dari 03 sampai 05 November,  diikuti oleh band-band pelajar terbaik dari kota/kabupaten Bima dan Dompu. 
 Band 2Eazy beranggotakan 6 orang personil di antaranya, M. Alfian [XI AGAMA]. Adi Fahril Raditya [XII BAHASA], M. Kafka Rayyan [XI IPS 1], Farasy Umawi Al Faridzi [XII IPA 5], Muhammad Dimas Julyan [XII IPS 3], Desti Putri Rizianti [XII BAHASA]. Vokalis 2Eazy M. Alvian mengatakan, “prestasi perdana yang diraih oleh 2Eazy ini akan menjadi kado terbaik untuk  madrasah yang selalu mendudukung dan memfasilitasi kami dan tentunya juga akan menjadi motivasi kami untuk selalu meningkatkan kualitas musik yang 2Eazy miliki.”
