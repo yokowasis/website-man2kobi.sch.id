@@ -3,7 +3,7 @@ layout: post
 title: "2Eazy MAN 2 KOTA BIMA Raih Juara 3 Lomba Akustik Tingkat SMA & Sederajat"
 date: 2023-11-05
 categories: Berita
-img: "https://man2kobi.sch.id/images/1699256514880_34122e6b.png"
+img: "https://man2kobi.sch.id/images/1699257244520_835616ae.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
