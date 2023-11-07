@@ -3,7 +3,7 @@ layout: post
 title: "2 Siswa Terbaik MAN 2 KOTA BIMA Wakili Kota Bima dan Provinsi NTB di Ajang Forum Pelajar Indonesia [FORXII)"
 date: 2023-11-06
 categories: Berita
-img: "https://man2kobi.sch.id/images/1699330707269_63d8fa6a.png"
+img: "https://man2kobi.sch.id/images/1699330777824_bf03174f.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
