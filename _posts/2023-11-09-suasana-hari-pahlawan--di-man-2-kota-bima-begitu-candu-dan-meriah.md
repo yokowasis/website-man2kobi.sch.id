@@ -3,7 +3,7 @@ layout: post
 title: "Suasana Hari Pahlawan  di MAN 2 Kota Bima begitu Candu dan Meriah"
 date: 2023-11-09
 categories: Berita
-img: "https://man2kobi.sch.id/images/1699583200717_e022d532.png"
+img: "https://man2kobi.sch.id/images/1699583844978_921dda9d.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
