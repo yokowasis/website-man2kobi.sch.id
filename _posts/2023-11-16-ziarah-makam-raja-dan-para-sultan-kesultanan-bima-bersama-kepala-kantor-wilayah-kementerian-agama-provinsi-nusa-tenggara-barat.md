@@ -1,0 +1,22 @@
+---
+layout: post
+title: "ZIARAH MAKAM RAJA DAN PARA SULTAN KESULTANAN BIMA BERSAMA KEPALA KANTOR WILAYAH KEMENTERIAN AGAMA PROVINSI NUSA TENGGARA BARAT"
+date: 2023-11-16
+categories: Berita
+img: "https://man2kobi.sch.id/images/1700203321670_d0838244.png"
+author: Tim Humas MAN 2 Kota Bima
+editor: Tim Humas MAN 2 Kota Bima
+---
+
+
+Jum’at, 17 November 2023 – Sebagai Rangkaian Peringatan Hari Pahlawan Nasional ke 78 Tahun 2023, Kepala Kantor Wilayah Kementerian Agama Provinsi Nusa Tenggara Barat, H. Zamroni Aziz, S.H.I., MH bersama Ketua Dharma Wanita Persatuan Kantor Kementerian Agama Provinsi Nusa Tenggara Barat, Megawati Lestari Zamroni, S.H.,MH, melaksanakan Ziarah Makam Para Pahlawan yang telah berjasa dalam pembangunan Nusa Tenggara Barat. Salah satu destinasi makam yang dikunjungi adalah Komplek Makam Kerajaan dan Kesultanan Bima yang terletak di Kelurahan Dara, Kecamatan Rasanae Barat, Kota Bima. Makam Dana Traha atau yang turut dikenal dengan sebutan Rade Raja (red: sebutan warga lokal) adalah destinasi ke-tiga setelah Bapak Kepala Kantor Wilayah Kementerian Agama Provinsi Nusa Tenggara Barat (Kakanwil Kemenag Provinsi NTB) mengunjungi Makam Tuan Guru Haji (TGH) Muchammad Soleh Hambali atau yang kerap disapa dengan panggilan akrab Tuan Guru Bengkel dan Makam Tuan Guru Haji (TGH) Muhammad Zainuddin Abdul Madjid yang keduanya berada di Pulau Lombok.
+
+Mengawali Prosesi Ziarah Makam, rombongan Kakanwil Kemenag NTB disambut oleh keluarga besar Kementerian Agama Kota Bima di sepanjang jalan menuju Komplek Makam Dana Traha. Rombongan kemudian disambut oleh Tim Paskibraka dan Regu Pramuka MAN 2 Kota Bima dan bersama menuju mimbar yang telah disediakan tepat di depan pintu masuk makam. Turut hadir dalam ziarah makam bersama Bapak Kakanwil ini diantaranya keluarga besar Kementerian Agama Kota Bima, keluarga Kementerian Agama Kabupaten Bima, Kementerian Agama Kabupaten Dompu, ulama, tokoh masyarakat, pemangku adat, dan masyarakat sekitar komplek pemakaman. 
+
+Sambutan pertama disampaikan oleh Ketua Majelis Adat Dana Mbojo, Hj. Ferra Amelia, SE, MM atau yang lebih akrab disapa Dae Ferra. Selain menjabat sebagai Ketua Majelis Adat, Dae Ferra juga adalah salah satu puteri dari Sultan Bima, Sultan Abdul Kahir. Sambutan berikutnya disampaikan oleh Pejabat (Pj) Wali Kota Bima yakni Ir. H. Mohammad Rum, MT. Pj Wali Kota Bima mengucapkan selamat datang pada rombongan Kakanwil yang dengan niat tulus telah datang untuk menziarahi makam para sultan Kesultanan Bima.
+
+Berikutnya dalam kesempatan ini Kakanwil Kemenag NTB juga menyampaikan sambutannya. Ucapan terimakasih yang mendalam disampaikan kepada hadirin yang telah hadir untuk bersama-sama berziarah di Makam Raja dan Sultan Bima tersebut. Menurutnya, berziarah ke Makan Pahlawan, Makam Raja atau Sultan terdahulu juga dapat membangkitkan rasa nasionalisme dan patriotisme dalam generasi agar mau mempertahankan dan memajukan daerah dan bangsanya. Kakanwil mengajak kita semua untuk tidak pernah melupakan jasa-jasa Para Pahlawan termasuk Raja dan Sultan Bima dengan senantiasa memanjatkan doa kepada Tuhan Yang Maha Esa agar mendapatkan tempat yang layak dan mulia di sisi-Nya. Kakanwil juga berpesan agar hendaknya kita meniru keteladanan para sultan dalam membangun daerah dan berbuat bagi masyarakat.
+
+“Hadirnya kita sebagai generasi penerus untuk membawa Indonesia pada umumnya dan Kota Bima khususnya menjadi lebih baik dan lebih baik lagi, lebih maju lebih unggul karena kita punya potensi luar biasa untuk itu. Pencapaian kita hari ini, dan cita-cita kita di masa akan datang hendaknya selalu mengharap keridhaan Tuhan Yang Maha Esa dan sepertinya akan sombong kalau kita melepaskan semua itu dari jasa para pahlawan/raja/para sultan yang terlebih dulu membangun wilayah dan membangun generasi. Maka walaupun kita bukan zuriatnya secara langsung, tapi kalau kita adalah bagian dari Kota Bima, Kabupaten Bima dan Kabupaten Dompu, maka InsyaAllah keberkahan Kesultanan Bima akan sampai kepada kita. Mari kita hargai perjuangan para pendahulu dengan bekerja keras, bekerja cerdas, dan bekerja ikhlas,” Ucap H. Zamroni menutup sambutannya.
+
+Acara selanjutnya yakni kegiatan inti diawali dengan penghormatan kepada arwah para pahlawan, mengunjungi tiap makam, membacakan doa di pusara, menabur karangan bunga dan menyiram makam. Kesemua rangkaian kegiatan dilakukan Kakanwil bersama rombongan. “Semoga segala niat baik kita dicatat sebagai amal baik disisi Allah subhanahu wata’ala” tutup beliau mengakhiri seluruh rangkaian acara ziara makam kali ini.
