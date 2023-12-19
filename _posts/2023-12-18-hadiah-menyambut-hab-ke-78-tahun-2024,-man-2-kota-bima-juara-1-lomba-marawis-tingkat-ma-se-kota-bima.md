@@ -3,7 +3,7 @@ layout: post
 title: "Hadiah Menyambut HAB Ke 78 Tahun 2024, MAN 2 KOTA BIMA Juara 1 Lomba Marawis Tingkat MA Se Kota Bima"
 date: 2023-12-18
 categories: Berita
-img: "https://man2kobi.sch.id/images/1702938842337_9fc196a9.png"
+img: "https://man2kobi.sch.id/images/1702944521177_8998a803.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
