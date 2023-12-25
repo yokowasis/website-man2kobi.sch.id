@@ -3,7 +3,7 @@ layout: post
 title: "M2 UNITED The Real GOAT! Tim Futsal Guru MAN 2 Kota Bima Juara 1 Turnamen futsal Tingkat Kota dan Kabupaten Bima"
 date: 2023-12-24
 categories: Berita
-img: "https://man2kobi.sch.id/images/1703506801517_98185770.png"
+img: "https://man2kobi.sch.id/images/1703506940895_364032f2.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
