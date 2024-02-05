@@ -3,7 +3,7 @@ layout: post
 title: "GO INTERNASIONAL AGAIN! Siswa MAN 2 KOTA BIMA Lolos Pertukaran Pelajar dan Pemuda ke Tiga Negara"
 date: 2024-02-04
 categories: Berita
-img: "https://man2kobi.sch.id/images/1707141915504_03913ba5.png"
+img: "https://man2kobi.sch.id/images/1707142572311_dcaf4762.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
