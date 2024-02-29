@@ -3,7 +3,7 @@ layout: post
 title: "NGERI! SISWA MAN 2 KOTA BIMA LOLOS PERTUKARAN PELAJAR KE AMERIKA SERIKAT"
 date: 2024-02-29
 categories: Berita
-img: "https://man2kobi.sch.id/images/1709250482574_b204c1d4.png"
+img: "https://man2kobi.sch.id/images/1709250751876_c02aef92.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
