@@ -3,19 +3,19 @@ layout: post
 title: "Dominan! MAN 2 Kota Bima Rengkuh Juara 1 dan Juara 3 Turnamen Futsal se-Pulau Sumbawa"
 date: 2024-03-08
 categories: Berita
-img: "https://man2kobi.sch.id/images/1709958280871_d2c27b06.png"
+img: "https://man2kobi.sch.id/images/1709976907647_820608c9.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
 
 
-Tim Futsal MAN 2 Kota Bima yang dikenal dengan M2 United FC berhasil meraih dua gelar pada turnamen futsal POMSTI Cup 2024. Raihan ini membuktikan bahwa taring MAN 2 Kota Bima dalam bidang futsal masih tajam. Hal ini juga menandakan kembalinya tradisi juara futsal oleh M2 United FC.
+Humas.MAN 2 Kota Bima - Tim Futsal MAN 2 Kota Bima yang dikenal dengan M2 United FC berhasil meraih dua gelar pada turnamen futsal POMSTI Cup 2024. Raihan ini membuktikan bahwa taring MAN 2 Kota Bima dalam bidang futsal masih tajam. Hal ini juga menandakan kembalinya tradisi juara futsal oleh M2 United FC.
 
 
 Turnamen POMSTI Cup tahun 2024 diselenggarakan oleh Sekolah Tinggi Ilmu Ekonomi (STIE) Bima dan merupakan gelaran yang kedua. Turnamen yang berlangsung sejak tanggal 5 hingga 8 Maret 2024 ini dilaksanakan di GOR Panda, Kabupaten Bima. Pesertanya merupakan pelajar SMA/MA/SMK se-Pulau Sumbawa.
 
 
-Setelah melewati berbagai pertandingan hingga babak final, tim M2 United B yang dikapteni oleh Khairul berhasil keluar sebagai juara. Tim yang diasuh oleh Muh. Putrawansyah S atau yang akrab dikenal dengan Coach Pato berhasil menaklukkan tim asal MAN 1 Kota Bima yang diasuh oleh Ahmad Gazali alias Coach Gezo. Pertarungan bertajuk Derbi Madrasah antara guru dan murid tersebut berlangsung menarik dan disaksikan banyak supporter dari kedua madrasah.
+Setelah melewati berbagai pertandingan hingga babak final, tim M2 United B yang dikapteni oleh Khairul berhasil keluar sebagai juara. Tim yang diasuh oleh Muh. Putrawansyah S atau yang akrab dikenal dengan Coach Pato berhasil menaklukkan tim asal MAN 1 Kota Bima.
 
 
 “Alhamdulillah, hasil ini tidak lepas dari dedikasi para pemain dan jajaran pelatih. Doa, dukungan dan motivasi dari warga madrasah maupun orang tua para pemain juga sangat berpengaruh. Terima kasih kepada semua pihak, terutama kepala madrasah dan jajarannya,” ujar pelatih yang telah berlisensi tersebut.
