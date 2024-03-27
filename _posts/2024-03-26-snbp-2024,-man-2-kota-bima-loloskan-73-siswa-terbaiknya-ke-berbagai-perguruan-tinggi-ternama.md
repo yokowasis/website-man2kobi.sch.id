@@ -3,7 +3,7 @@ layout: post
 title: "SNBP 2024, MAN 2 Kota Bima Loloskan 73 Siswa Terbaiknya ke Berbagai Perguruan Tinggi Ternama"
 date: 2024-03-26
 categories: Berita
-img: "https://man2kobi.sch.id/images/1711510106528_0430bec0.png"
+img: "https://man2kobi.sch.id/images/1711510964057_4c58d74d.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
@@ -16,9 +16,9 @@ Berdasarkan sebaran perguruan tinggi, rincian siswa MAN 2 Kota Bima yang berhasi
 
 Kemudian, berdasarkan prodi dan jurusan yang telah dipilih, para siswa MAN 2 Kota Bima tersebar pada berbagai prodi dan jurusan yaitu Kedokteran, Teknik Elektro, Manajemen Informasi Kesehatan, Teknik Geologi, Teknik Kimia, Perpajakan, Hubungan Internasional, Pendidikan Kimia, Manajemen, Teknik Informatika, Teknik industri, Arsitektur, Teknik sipil, Kehutanan, Ekonomi Pembangunan, Sastra dan Bahasa Indonesia, Ilmu Hukum, Farmasi, PPKN, Sosiologi, Pendidikan Guru Sekolah Dasar (PGSD), Hukum, Keperawatan, Statistika, Ilmu Komunikasi, Ilmu Kesehatan Masyarakat, Pendidikan Bahasa Arab, Pendidikan bahasa Inggris, Gizi, Seni Drama, Tari dan Musik, Akuntansi, Bioteknologi, Pendidikan Agama Islam, D4 Gizi, DIII Teknologi.
 
-“Alhamdulillah, hasil ini sesuai dengan target dan harapan saya. Terima kasih yang luar biasa untuk pengalaman, ilmu dan kebaikan dari seluruh guru di MAN 2 Kota Bima. Saya akan berusaha maksimal untuk menjadi yang terbaik pada jenjang kuliah nanti agar dapat membanggakan keluarga dan madrasah tercinta,” ujar Zahra Auliya S, salah satu siswa yang lolos SNBP 2023.
+“Alhamdulillah, hasil ini sesuai dengan target dan harapan saya. Terima kasih yang luar biasa untuk pengalaman, ilmu dan kebaikan dari seluruh guru di MAN 2 Kota Bima. Saya akan berusaha maksimal untuk menjadi yang terbaik pada jenjang kuliah nanti agar dapat membanggakan keluarga dan madrasah tercinta,” ujar Zahra Auliya S, salah satu siswa yang lolos SNBP 2024.
 
-Adapun hasil yang diraih oleh MAN 2 Kota Bima dalam SNBP 2023 kali ini ditanggapi dan diapresiasi oleh berbagai pihak. Dalam hal ini, secara khusus kepala madrasah pun menyampaikan ucapan selamat dan mengungkapkan rasa bangganya kepada berbagai pihak yang terlibat, khususnya para siswa yang telah lolos. Ia berharap agar para siswa dapat mengemban amanah dengan baik pada masing-masing perguruan tinggi yang telah menerimanya.
+Adapun hasil yang diraih oleh MAN 2 Kota Bima dalam SNBP 2024 kali ini ditanggapi dan diapresiasi oleh berbagai pihak. Dalam hal ini, secara khusus kepala madrasah pun menyampaikan ucapan selamat dan mengungkapkan rasa bangganya kepada berbagai pihak yang terlibat, khususnya para siswa yang telah lolos. Ia berharap agar para siswa dapat mengemban amanah dengan baik pada masing-masing perguruan tinggi yang telah menerimanya.
 
 “Alhamdulillah. Kami ucapkan selamat dan rasa bangga kepada 73 siswa terbaik yang lolos SNBP tahun ini. Di kampus masing-masing, teruslah bersemangat, raih berbagai prestasi, emban amanah ini dengan baik. Tunjukkan bahwa siswa MAN 2 Kota Bima bukan orang-orang sembarangan,” ungkap Muslihah, S.Pd, Kepala MAN 2 Kota Bima memotivasi.
 
