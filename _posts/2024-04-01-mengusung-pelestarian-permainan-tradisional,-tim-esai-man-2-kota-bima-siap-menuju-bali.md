@@ -3,7 +3,7 @@ layout: post
 title: "Mengusung Pelestarian Permainan Tradisional, Tim Esai MAN 2 Kota Bima Siap Menuju Bali"
 date: 2024-04-01
 categories: Berita
-img: "https://man2kobi.sch.id/images/1712019680853_802c33fe.png"
+img: "https://man2kobi.sch.id/images/1712023430372_82081cec.png"
 author: Tim Humas MAN 2 Kota Bima
 editor: Tim Humas MAN 2 Kota Bima
 ---
